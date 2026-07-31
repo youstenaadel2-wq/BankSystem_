@@ -60,8 +60,3 @@ python main.py
 5. Delete Account
 6. Exit
 ```
-
-## 👩‍💻 Author
-
-Youstena Adel
-Faculty of Computers, Information and Artificial Intelligence
